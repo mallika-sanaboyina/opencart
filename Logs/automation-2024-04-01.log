@@ -1,0 +1,60 @@
+11:31:58.388 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+11:31:58.391 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+11:31:58.391 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+11:31:58.391 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+11:31:59.310 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+11:31:59.522 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x0cc77ff327ba1a63
+11:32:06.328 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+11:32:06.328 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs
+11:32:13.474 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:32:14.204 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+11:32:17.675 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+11:52:31.560 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+11:52:38.777 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:52:39.825 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+11:52:43.297 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+11:59:18.690 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+11:59:25.928 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:59:26.951 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+11:59:27.301 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+12:07:00.141 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+12:07:07.398 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+12:07:08.423 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+12:07:08.769 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+12:08:42.196 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+12:08:49.418 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+12:08:50.506 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+12:08:50.862 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+12:13:13.182 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+12:13:20.407 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+12:13:21.536 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+12:13:21.882 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+15:35:30.001 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+15:35:37.251 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+15:35:38.485 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+16:02:59.137 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+16:03:06.325 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+16:03:07.121 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+16:05:36.478 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+16:05:43.735 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+16:05:44.224 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+16:07:23.090 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+16:07:30.320 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+16:07:30.855 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+16:07:34.260 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+16:18:44.766 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+16:18:52.023 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+16:18:52.846 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+16:18:56.253 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+16:29:08.817 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+16:29:16.024 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+16:29:16.834 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+16:33:50.343 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+16:33:57.616 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+16:33:58.429 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+16:36:22.733 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+16:36:30.036 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+16:36:30.813 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+16:39:57.030 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+16:40:04.259 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+16:40:04.832 [main] INFO  testCases.TC_002_LoginTest - Clicked on login

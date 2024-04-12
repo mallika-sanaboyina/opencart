@@ -1,0 +1,55 @@
+11:00:26.870 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:00:31.081 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue....
+11:00:31.128 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+11:00:31.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+11:00:39.878 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+11:00:47.034 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:00:47.894 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+11:00:47.901 [main] INFO  testCases.TC_002_LoginTest - entering valid email and password
+11:00:48.790 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+11:00:48.858 [main] INFO  testCases.TC_002_LoginTest - login test passed
+11:00:48.858 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002 Login test 
+11:05:21.963 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********TC_001_AccountRegistrationTest starting *************
+11:05:22.094 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount
+11:05:22.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Registration
+11:05:22.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:05:26.594 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue....
+11:05:26.838 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+11:05:35.787 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+11:05:43.303 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:05:43.878 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+11:05:43.881 [main] INFO  testCases.TC_002_LoginTest - entering valid email and password
+11:05:44.820 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+11:05:44.906 [main] INFO  testCases.TC_002_LoginTest - login test passed
+11:05:44.907 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002 Login test 
+11:16:35.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********TC_001_AccountRegistrationTest starting *************
+11:16:35.564 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount
+11:16:36.162 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Registration
+11:16:36.162 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:16:39.550 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue....
+11:16:39.610 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+11:16:47.556 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+11:16:54.936 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:16:55.585 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+11:16:55.589 [main] INFO  testCases.TC_002_LoginTest - entering valid email and password
+11:16:56.358 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+11:19:39.124 [main] INFO  testCases.TC_002_LoginTest - ****Starting TC_002 Login test****
+11:19:46.353 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account
+11:19:46.903 [main] INFO  testCases.TC_002_LoginTest - Clicked on login
+11:19:46.906 [main] INFO  testCases.TC_002_LoginTest - entering valid email and password
+11:19:47.689 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+11:19:47.754 [main] INFO  testCases.TC_002_LoginTest - login test passed
+11:19:47.757 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002 Login test 
+11:19:55.582 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********TC_001_AccountRegistrationTest starting *************
+11:19:55.718 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount
+11:19:56.319 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Registration
+11:19:56.319 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:20:00.017 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue....
+11:20:00.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+11:25:01.206 [main] INFO  testCases.TC_001_AccountRegistrationTest - *********TC_001_AccountRegistrationTest starting *************
+11:25:01.326 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on MyAccount
+11:25:01.911 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on Registration
+11:25:01.911 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:25:05.301 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue....
+11:25:05.393 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message..
+11:25:05.397 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
